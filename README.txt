@@ -17,13 +17,10 @@ the user know which path it's taking.
 
 Compiling:
 	To compile the program, simply type "make" into the command line under
-the directory where the program files are located. If you want to run the
-program from before I added the bonus part, then compile and run under the
-"Project2_Pre-Bonus" folder. If you want to run the program with the bonus
-part, then compile and run under the "Project2_Bonus" folder.
+the directory where the program files are located.
 
 Running:
-	To run the program, type "./Project2 " followed by either "test.txt"
+	To run the program, type "./TernaryTree " followed by either "test.txt"
 or "data.ternary.txt" depending on which test you intend to run. test.txt
 contains 20 integers, and data.ternary.txt contains 1000 integers.
 
